@@ -1,3 +1,9 @@
 # amazing
 ##It's amazing work!
-### Creating a new branch is quick & simple.
+<<<<<<< HEAD
+### Creating a new branch is quick and simple.
+=======
+
+
+### I love this work!
+>>>>>>> featurel
