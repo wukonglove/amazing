@@ -1,7 +1,7 @@
 # amazing
 ##It's amazing work!
 <<<<<<< HEAD
-### Creating a new branch is quick and simple.
+### Creating is a new branch is quick and simple.
 =======
 
 
